@@ -2,4 +2,5 @@
 
 Olá bem vindo ao meu livro de receitas :call_me_hand:
 
-- Strogone de frango
+- Strogonoff de frango
+- Bolo de Cenoura
